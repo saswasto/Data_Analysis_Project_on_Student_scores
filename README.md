@@ -11,7 +11,7 @@ Corrected "on there exams or others activies" to "on their exams and other activ
 Project Outline:
 
 Gather data on student scores from exams, quizzes, assignments, and other activities.
-Ensure the data includes relevant fields such as student ID, score, activity type, date, etc.
+Ensure the data includes relevant fields such as student ID, score, activity type, date, etc.\n
 Data Cleaning:
 
 Handle missing values and correct any inaccuracies.
