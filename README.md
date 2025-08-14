@@ -1,4 +1,4 @@
-                        Project on sttudents scores 
+                        Project on students scores 
 
 It is a basic project about data analysis. Here, I have analyzed the data about the students' scores on their exams and other activities.
 
